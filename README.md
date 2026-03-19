@@ -1,9 +1,9 @@
 # Hack4IMPACTTrack2--Team-Good-Edu-
 
 ### Team members : 
-Anurag Ravi
-Shubham Kumar
-Suprovo Mallick
+Anurag Ravi, 
+Shubham Kumar, 
+Suprovo Mallick, and
 Vikram Kumar Sahu
 
 ### Domain : 
