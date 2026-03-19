@@ -3,7 +3,7 @@
 ### Team members : 
 Anurag Ravi, 
 Shubham Kumar, 
-Suprovo Mallick, and
+Suprovo Mallick, 
 Vikram Kumar Sahu
 
 ### Domain : 
